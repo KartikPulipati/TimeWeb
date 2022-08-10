@@ -1,3 +1,5 @@
+### Used this to learn more about how Django and web dev are used by other people(Arhan)
+
 **TimeWeb — The new way to manage your time**
 
 Are your planners just not enough for all of your school work? Are you tired of always procrastinating? Say no more.
